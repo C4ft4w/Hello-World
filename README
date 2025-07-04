@@ -1,1 +1,13 @@
 Hello World!
+# Hello-World
+
+Repositori ini dibuat sebagai contoh proyek Hello World.
+
+## Fitur
+- Menampilkan pesan "Hello, World!".
+- Struktur kode sederhana, cocok untuk pemula.
+
+## Cara Menjalankan
+1. Clone repositori ini:
+   ```bash
+   git clone https://github.com/C4ft4w/Hello-World.git
